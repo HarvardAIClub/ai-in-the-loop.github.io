@@ -243,10 +243,15 @@ body.side-panel-left.side-push-panel.side-panel-open.stretched #header .containe
 	Team & Testimonials
 ---------------------------------------------------------------------------- */
 
+.team-desc.mod-rows {
+	text-align: left;
+}
+
 .team-title h4 {
 	font-weight: 600;
 	font-size: 17px;
 	letter-spacing: 2px;
+	margin-bottom: 16px;
 }
 
 .team-title span {

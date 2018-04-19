@@ -9846,6 +9846,10 @@ body:not(.device-touch) .clients-grid li a {
 	width: 100%;
 }
 
+.team-image.mod-bio {
+	padding-top: 30px;
+}
+
 .team-desc { text-align: center; }
 
 .team-desc.team-desc-bg {
